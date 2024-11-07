@@ -17,6 +17,9 @@ body{
 div{
     box-sizing: border-box;
 }
+.logo{
+    opacity: 0.6;
+}
 .header{
     display: flex;
 }
